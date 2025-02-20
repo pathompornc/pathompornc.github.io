@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pathomporn C."
+title                    : "Patt C."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,8 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Pathomporn (Patt) C."
-  pronouns         : "she/her"  
-  bio              : "MS Information Management student at the University of Wasington"
+  bio              : "Technical Program Manager / Product Manager, MS Information Management at UW"
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
