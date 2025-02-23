@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Work Experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Technical Program Manager at Siam Commercial Bank - AI Research and Innovation Lab, 2022-2024
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
+* Product Manager at Finnomena (Fintech Wealth Management Platform), 2021-2022
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Data Product Manager at Sertis (Data Consulting Firm), 2019-2021
+
+Education
+======
+* Master of Science in Information Management, University of Washington, 2025
+* Bachelor of Business and Accountancy, Chulalongkorn University, 2019
+
+Certifications
+======
+* Project Management Professional (PMP) by Project Management Institute (PMI), 2022-2028
+* Agile Certified Practitioner (PMI-ACP) by Project Management Institute (PMI), 2022-2028
+* CS50X: Introduction to Computer Science by Harvard University, 2024
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Project Management
+* Data Analytics
+  * SQL (MySQL, SQLite)
+  * Python (pandas, numpy, matplotlib)
+  * Excel (Pivot Table, VLOOKUPS)
+  * Data Visualization (Tableau, Power BI)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Typhoon: Thai Large Language Models, arXiv (2023)]([https://website-name.com](https://arxiv.org/abs/2312.13951))
   
-Talks
+Volunteer
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Facilitator at WTIA FullConTech, facilitated discussion about technology and innovation challenges in the Washington State, 2024
+* Project Manager at Reviv, Redesigned UX/UI for web-based clothes reuse and repair services for sustainable fashion lifestyle in Thailand, 2022
+* Volunteer Staff at Chulalongkorn Business School: Constructed earthen shelter houses for the village in Sakaeo, Thailand, 2018
