@@ -42,10 +42,10 @@ Skills
 
 Publications
 ======
-* [Typhoon: Thai Large Language Models, arXiv (2023)]([https://website-name.com](https://arxiv.org/abs/2312.13951))
+* [Typhoon: Thai Large Language Models, arXiv (2023)]([https://arxiv.org/abs/2312.13951])
   
 Volunteer
 ======
 * Facilitator at WTIA FullConTech, facilitated discussion about technology and innovation challenges in the Washington State, 2024
 * Project Manager at Reviv, Redesigned UX/UI for web-based clothes reuse and repair services for sustainable fashion lifestyle in Thailand, 2022
-* Volunteer Staff at Chulalongkorn Business School: Constructed earthen shelter houses for the village in Sakaeo, Thailand, 2018
+* Volunteer Staff at Chulalongkorn Business School, Constructed earthen shelter houses for the village in Sakaeo, Thailand, 2018
