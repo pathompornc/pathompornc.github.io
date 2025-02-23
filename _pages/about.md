@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Experienced Program & Product Manager with a strong background in AI, LLMs, and data-driven products. I specialize in leading cross-functional teams, driving strategic initiatives, and bridging the gap between technology and business to deliver impactful solutions. With over five years of experience in AI, NLP, and data science projects, I’ve worked on LLM-powered solutions, personalization systems, and AI-driven analytics—collaborating with researchers, engineers, and designers to bring innovative products to life.
+I'm Pathomporn Chokchainant, or you can call me Patt. I am a Technical Program & Product Manager with 5+ years of experience driving AI, LLM, and data product development. I lead cross-functional teams to build user-centric, innovative solutions that bridge emerging technologies with real-world applications.
 
-My expertise includes program and product management, strategic roadmap planning, data collection and annotation workflows, and AI-driven personalization. Passionate about making emerging technologies accessible and scalable, I thrive in fast-paced environments where I can drive innovation and execution.
+I specialize in driving AI and data product development through strategic planning, agile project management, and stakeholder collaboration. My passion lies in transforming business challenges into technical solutions by defining product roadmaps, developing success metrics, and leveraging data insights through SQL, analytics, and dashboards.
+
+Currently, I’m pursuing a Master of Science in Information Management at the University of Washington, with a concentration in data science and AI. I’m particularly interested in how AI models can be designed to be truly useful, responsible, and supportive, helping people work more productively while fostering meaningful, real-world impact.
