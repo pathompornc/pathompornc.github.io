@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Pathomporn Chokchainant, or you can call me Patt. I am a Technical Program & Product Manager with 5+ years of experience driving AI, LLM, and data product development. I lead cross-functional teams to build user-centric, innovative solutions that bridge emerging technologies with real-world applications.
+I'm Patt Chokchainant, a Technical Program Manager & Product Manager with 5+ years of experience driving AI, LLM, and data product development. I lead cross-functional teams to build user-centric, innovative solutions that bridge emerging technologies with real-world applications.
 
 I specialize in driving AI and data product development through strategic planning, agile project management, and stakeholder collaboration. My passion lies in transforming business challenges into technical solutions by defining product roadmaps, developing success metrics, and leveraging data insights through SQL, analytics, and dashboards.
 
