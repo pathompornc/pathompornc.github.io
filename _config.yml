@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Pathomporn (Patt) C."
-  bio              : "Technical Program Manager / Product Manager, MS Information Management at UW"
+  bio              : "Technical Program Manager Master's Student at UW"
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
@@ -32,9 +32,7 @@ author:
 
   # Social media
   linkedin         : pathompornc
-  mastodon         : # URL
-  medium           : # URL
-  
+
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=6nkUwdAAAAAJ&hl=en"
 
