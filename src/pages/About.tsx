@@ -17,7 +17,7 @@ const About = () => {
       {/* Profile Section */}
       <Section className="pt-28">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
-          <div className="lg:col-span-7 space-y-6 order-2 lg:order-1">
+          <div className="lg:col-span-7 space-y-6">
             <div className="inline-block px-3 py-1 rounded-full text-xs bg-secondary text-secondary-foreground mb-2">
               About Me
             </div>
@@ -83,7 +83,7 @@ const About = () => {
             </div>
           </div>
           
-          <div className="lg:col-span-5 order-1 lg:order-2 flex justify-center lg:justify-end">
+          <div className="lg:col-span-5 flex justify-center lg:justify-end">
             <div className="w-56 h-56 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-lg">
               <img 
                 src="https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=400&h=400" 

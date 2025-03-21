@@ -1,7 +1,6 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, Briefcase, FileText, ChevronDown } from 'lucide-react';
+import { ArrowRight, Briefcase, FileText } from 'lucide-react';
 import Section from '../components/Section';
 import ProjectCard from '../components/ProjectCard';
 import Header from '../components/Header';
@@ -11,10 +10,6 @@ import { projects } from '../data/projects';
 const Home = () => {
   // Showcase just the first 3 projects on the home page
   const featuredProjects = projects.slice(0, 3);
-  
-  const scrollToServices = () => {
-    document.getElementById('services')?.scrollIntoView({ behavior: 'smooth' });
-  };
   
   return (
     <div className="min-h-screen">
@@ -26,7 +21,7 @@ const Home = () => {
         
         <div className="container mx-auto px-6 md:px-12 relative z-10">
           <div className="max-w-3xl mx-auto text-center animate-fade-up">
-            <div className="inline-block px-3 py-1 rounded-full text-xs bg-secondary text-secondary-foreground mb-6">
+            <div className="inline-block px-4 py-1.5 rounded-full text-sm bg-secondary text-secondary-foreground mb-8 font-medium">
               Digital Craftsman
             </div>
             <h1 className="text-4xl md:text-6xl font-display font-medium tracking-tight mb-6">
@@ -52,17 +47,6 @@ const Home = () => {
                 About Me
               </Link>
             </div>
-          </div>
-          
-          <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
-            <button 
-              onClick={scrollToServices}
-              className="flex flex-col items-center text-muted-foreground hover:text-foreground transition-colors"
-              aria-label="Scroll down"
-            >
-              <span className="text-sm mb-2">Scroll Down</span>
-              <ChevronDown size={20} className="animate-bounce" />
-            </button>
           </div>
         </div>
       </section>
