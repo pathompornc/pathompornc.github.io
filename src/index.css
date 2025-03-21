@@ -1,3 +1,4 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -13,7 +14,7 @@
     --popover: 0 0% 100%;
     --popover-foreground: 25 40% 20%;
 
-    --primary: 10 45% 65%; /* Corresponds to #CE9C90 */
+    --primary: 17 65% 60%; /* Corresponds to #E97451 (Burnt Sienna) */
     --primary-foreground: 0 0% 100%;
 
     --secondary: 30 35% 93%;
@@ -22,8 +23,8 @@
     --muted: 30 20% 90%;
     --muted-foreground: 25 30% 45%;
 
-    --accent: 10 35% 50%; /* Corresponds to #A6776A */
-    --accent-foreground: 0 0% 100%;
+    --accent: 335 50% 85%; /* Corresponds to #F5C4D4 (Pink) */
+    --accent-foreground: 25 40% 30%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 100%;
@@ -45,7 +46,7 @@
     --popover: 25 40% 12%;
     --popover-foreground: 30 20% 90%;
 
-    --primary: 10 45% 50%; /* Darker variant of #CE9C90 for dark mode */
+    --primary: 17 65% 50%; /* Darker variant for dark mode */
     --primary-foreground: 0 0% 100%;
 
     --secondary: 25 30% 20%;
@@ -54,8 +55,8 @@
     --muted: 25 30% 20%;
     --muted-foreground: 25 20% 65%;
 
-    --accent: 10 35% 40%; /* Darker variant of #A6776A for dark mode */
-    --accent-foreground: 0 0% 100%;
+    --accent: 335 50% 40%; /* Darker variant for dark mode */
+    --accent-foreground: 30 20% 90%;
 
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 0% 100%;
