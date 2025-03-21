@@ -22,7 +22,7 @@ const About = () => {
               About Me
             </div>
             <h1 className="text-3xl md:text-5xl font-display font-medium tracking-tight mb-6">
-              Your Name
+              Patt Chokchainant
             </h1>
             <p className="text-xl text-muted-foreground mb-6">
               I'm a passionate software engineer with expertise in developing innovative solutions 
