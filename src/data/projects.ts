@@ -234,7 +234,7 @@ export const education = [
     school: "Chulalongkorn University",
     degree: "Bachelor of Business Administration (Finance & Accounting)",
     period: "2015 - 2019",
-    activities: ["Treasurer of Student University 2018", "Supervisor of 1,000+ Receptionists at Academic Exhibition 2017", "Head of School Freshman Welcoming Ceremonies 2016"]
+    activities: ["Treasurer of Student University 2018", "Supervisor of 1,000+ Receptionists at Academic Exhibition 2017", "Head of School Freshman Welcoming Ceremonies 2016"],
     awards: ["Full Academic Scholarship for 4 consecutive years"],
     logoSrc: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=100&h=100"
   }
