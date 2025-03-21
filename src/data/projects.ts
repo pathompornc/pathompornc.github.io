@@ -3,7 +3,7 @@
 export const projects = [
   {
     id: "project1",
-    title: "AI-Driven Analytics Platform",
+    title: "Typhoon Open Source Thai LLM Ecosystem",
     logoSrc: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=200&h=200",
     description: "Revolutionizing data analysis with machine learning algorithms for accurate predictions.",
     role: "Lead Developer",
@@ -38,7 +38,7 @@ export const projects = [
   },
   {
     id: "project2",
-    title: "E-Commerce Transformation",
+    title: "LingThai Data Registry and Annotation Platform",
     logoSrc: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=200&h=200",
     description: "Complete digital transformation for a traditional retail chain, enabling omnichannel sales.",
     role: "Frontend Architect",
@@ -73,7 +73,7 @@ export const projects = [
   },
   {
     id: "project3",
-    title: "Healthcare Management System",
+    title: "RAG Customer Service Co-pilot",
     logoSrc: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=200&h=200",
     description: "Secure and compliant system for managing patient records and optimizing healthcare operations.",
     role: "Full Stack Developer",
@@ -108,7 +108,7 @@ export const projects = [
   },
   {
     id: "project4",
-    title: "Smart City Initiative",
+    title: "E-Commerce Chatbot and Product Recommendation Systems",
     logoSrc: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=200&h=200",
     description: "IoT-based urban infrastructure monitoring and optimization for improved city living.",
     role: "IoT Solutions Architect",
@@ -143,7 +143,7 @@ export const projects = [
   },
   {
     id: "project5",
-    title: "Financial Inclusion Platform",
+    title: "Finnomena Wealth Tech Management Platform (FinTech)",
     logoSrc: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=200&h=200",
     description: "Mobile banking solution for underserved communities, focusing on accessibility and education.",
     role: "Product Manager",
