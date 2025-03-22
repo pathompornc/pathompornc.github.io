@@ -258,13 +258,13 @@ export const certifications = [
     credential: "3236038",
     credentialUrl: "https://www.credly.com/badges/869f628f-1c99-44bc-b56c-7213d87b10b6/public_url",
     logoSrc: "https://images.credly.com/size/680x680/images/884f1605-f439-4b0d-ba7c-76a921266d45/blob"
-  },
-  {
-    title: "CS 50X (Introduction to Computer Science)",
-    issuer: "Harvard University",
-    date: "2025",
-    credential: "placeholder",
-    credentialUrl: "#",
-    logoSrc: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=100&h=100"
   }
+  //{
+  //  title: "CS 50X (Introduction to Computer Science)",
+  //  issuer: "Harvard University",
+  //  date: "2025",
+  //  credential: "placeholder",
+  //  credentialUrl: "#",
+  // logoSrc: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=100&h=100"
+  //}
 ];

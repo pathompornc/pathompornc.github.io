@@ -67,7 +67,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="mt-12 pt-8 border-t border-gray-100 flex flex-col md:flex-row justify-between items-center text-sm text-muted-foreground">
-          <p>© {currentYear} Your Name. All rights reserved.</p>
+          <p>© {currentYear} Pathomporn Chokchainant. All rights reserved.</p>
           <p className="mt-2 md:mt-0">Made with precision and care</p>
         </div>
       </div>
