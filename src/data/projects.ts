@@ -223,17 +223,18 @@ export const experiences = [
 // Education data for the About page
 export const education = [
   {
-    school: "University of Technology",
-    degree: "Master of Science in Computer Science",
-    period: "2012 - 2014",
-    activities: ["Member of the Artificial Intelligence Research Group", "Teaching Assistant for Algorithms and Data Structures"],
-    awards: ["Dean's List for Academic Excellence", "Best Graduate Thesis Award"],
+    school: "University of Washington",
+    degree: "Master of Science in Information Management ",
+    major: "Data Science & AI",
+    period: "2024 - 2025",
+    awards: ["Dean's Scholarship for Academic Excellence"],
     logoSrc: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=100&h=100"
   },
   {
-    school: "State University",
-    degree: "Bachelor of Science in Software Engineering",
-    period: "2008 - 2012",
+    school: "Chulalongkorn University",
+    degree: "Bachelor of Business Administration (First Class Honors)",
+    major: "Finance & Accounting",
+    period: "2015 - 2019", 
     activities: ["Vice President of Computer Science Club", "Hackathon Participant"],
     awards: ["First Place in Collegiate Programming Contest", "Academic Scholarship Recipient"],
     logoSrc: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=100&h=100"
@@ -243,35 +244,27 @@ export const education = [
 // Certification data for the About page
 export const certifications = [
   {
-    title: "AWS Certified Solutions Architect",
-    issuer: "Amazon Web Services",
-    date: "2023",
-    credential: "AWS-123456",
-    credentialUrl: "#",
-    logoSrc: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=100&h=100"
-  },
-  {
-    title: "Google Professional Cloud Developer",
-    issuer: "Google Cloud",
+    title: "Project Management Professional (PMP)",
+    issuer: "Project Management Institute (PMI)",
     date: "2022",
-    credential: "GCP-789012",
-    credentialUrl: "#",
-    logoSrc: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=100&h=100"
+    credential: "3247538",
+    credentialUrl: "https://www.credly.com/earner/earned/badge/ac11425b-1859-41f0-8017-8430e1dfc6c90",
+    logoSrc: "https://images.credly.com/size/680x680/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob"
   },
   {
-    title: "Microsoft Certified: Azure Developer Associate",
-    issuer: "Microsoft",
-    date: "2021",
-    credential: "MSFT-345678",
+    title: "PMI Agile Certified Practitioner (PMI-ACP)",
+    issuer: "Project Management Institute (PMI)",
+    date: "2022",
+    credential: "3236038",
+    credentialUrl: "https://www.credly.com/badges/869f628f-1c99-44bc-b56c-7213d87b10b6/public_url",
+    logoSrc: "https://images.credly.com/size/680x680/images/884f1605-f439-4b0d-ba7c-76a921266d45/blob"
+  },
+  {
+    title: "CS 50X (Introduction to Computer Science)",
+    issuer: "Harvard University",
+    date: "2025",
+    credential: "placeholder",
     credentialUrl: "#",
     logoSrc: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=100&h=100"
-  },
-  {
-    title: "Certified Kubernetes Administrator",
-    issuer: "Cloud Native Computing Foundation",
-    date: "2020",
-    credential: "CKA-901234",
-    credentialUrl: "#",
-    logoSrc: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=100&h=100"
   }
 ];

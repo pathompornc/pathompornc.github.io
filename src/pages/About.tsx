@@ -22,7 +22,7 @@ const About = () => {
               About Me
             </div>
             <h1 className="text-3xl md:text-5xl font-display font-medium tracking-tight mb-6">
-              Your Name
+              Patt Chokchainant
             </h1>
             <p className="text-xl text-muted-foreground mb-6">
               I'm a passionate software engineer with expertise in developing innovative solutions 
@@ -37,7 +37,7 @@ const About = () => {
             </p>
             <div className="pt-4 flex flex-wrap gap-4">
               <a 
-                href="https://linkedin.com/in/yourusername" 
+                href="https://linkedin.com/in/pathompornc" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-2 rounded-full bg-secondary hover:bg-secondary/80 transition-colors"
@@ -46,7 +46,7 @@ const About = () => {
                 LinkedIn
               </a>
               <a 
-                href="https://github.com/yourusername" 
+                href="https://github.com/pathompornc" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-2 rounded-full bg-secondary hover:bg-secondary/80 transition-colors"
@@ -55,7 +55,7 @@ const About = () => {
                 GitHub
               </a>
               <a 
-                href="https://scholar.google.com/yourusername" 
+                href="https://scholar.google.com/citations?user=6nkUwdAAAAAJ&hl=en" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-2 rounded-full bg-secondary hover:bg-secondary/80 transition-colors"
@@ -64,7 +64,7 @@ const About = () => {
                 Google Scholar
               </a>
               <a 
-                href="mailto:your.email@example.com" 
+                href="mailto:ch.pathomporn@gmail.com" 
                 className="inline-flex items-center px-4 py-2 rounded-full bg-secondary hover:bg-secondary/80 transition-colors"
               >
                 <Mail size={18} className="mr-2" />
@@ -73,7 +73,7 @@ const About = () => {
             </div>
             <div className="pt-2">
               <a 
-                href="/resume.pdf" 
+                href="https://drive.google.com/file/d/1J7o7bgds2Wk0s0teZm3-HYlu5QDaMtzP/view?usp=sharing" 
                 target="_blank"
                 className="inline-flex items-center px-5 py-3 rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
               >
