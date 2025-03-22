@@ -51,7 +51,7 @@ const Header: React.FC = () => {
             to="/" 
             className="text-xl md:text-2xl font-display font-medium tracking-tight"
           >
-            Your Name
+            Patt Chokchainant
           </Link>
           
           {/* Desktop Navigation */}

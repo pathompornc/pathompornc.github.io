@@ -25,7 +25,7 @@ const Home = () => {
               Digital Craftsman
             </div>
             <h1 className="text-4xl md:text-6xl font-display font-medium tracking-tight mb-6">
-              Your Name
+              Patt Chokchainant
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8">
               I'm a passionate developer crafting digital experiences 
