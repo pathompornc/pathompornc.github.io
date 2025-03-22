@@ -22,13 +22,15 @@ const Home = () => {
         <div className="container mx-auto px-6 md:px-12 relative z-10">
           <div className="max-w-3xl mx-auto text-center animate-fade-up">
             <div className="inline-block px-4 py-1.5 rounded-full text-sm bg-secondary text-secondary-foreground mb-8 font-medium">
-              Product Manager
+              Digital Craftsman
             </div>
             <h1 className="text-4xl md:text-6xl font-display font-medium tracking-tight mb-6">
-              Patt Chokchainant
+              Your Name
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8">
-              Bridging AI & Data into Scalable, User-Centric Products
+              I'm a passionate developer crafting digital experiences 
+              that combine aesthetic design with flawless functionality. 
+              Specializing in creating solutions that solve real-world problems.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link 
@@ -51,9 +53,9 @@ const Home = () => {
       
       {/* Services Section */}
       <Section 
-        id="product-management"
+        id="services"
         title="What I Do"
-        subtitle="Product Management"
+        subtitle="Services"
         className="bg-secondary/30"
       >
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -61,10 +63,10 @@ const Home = () => {
             <div className="w-14 h-14 rounded-full bg-primary/10 flex items-center justify-center mb-6">
               <Briefcase size={24} className="text-primary" />
             </div>
-            <h3 className="text-xl font-display font-medium mb-4">Product Strategy & Roadmap Development</h3>
+            <h3 className="text-xl font-display font-medium mb-4">Development</h3>
             <p className="text-muted-foreground">
-              Drive product direction by aligning AI capabilities with business needs. 
-              Prioritize features, drive execution, and ensure measurable impact.
+              Creating clean, efficient code that powers innovative web applications 
+              and digital experiences with a focus on performance and scalability.
             </p>
           </div>
           
@@ -72,10 +74,10 @@ const Home = () => {
             <div className="w-14 h-14 rounded-full bg-primary/10 flex items-center justify-center mb-6">
               <FileText size={24} className="text-primary" />
             </div>
-            <h3 className="text-xl font-display font-medium mb-4">Cross-Functional Leadership</h3>
+            <h3 className="text-xl font-display font-medium mb-4">Design</h3>
             <p className="text-muted-foreground">
-              Bridge AI research, engineering, and business teams to turn ideas into scalable products. 
-              Keep teams aligned, moving fast, and delivering results.
+              Crafting intuitive user interfaces and experiences that balance 
+              aesthetic appeal with functionality and accessibility.
             </p>
           </div>
           
@@ -83,9 +85,10 @@ const Home = () => {
             <div className="w-14 h-14 rounded-full bg-primary/10 flex items-center justify-center mb-6">
               <Briefcase size={24} className="text-primary" />
             </div>
-            <h3 className="text-xl font-display font-medium mb-4">Agile Development and Operations</h3>
+            <h3 className="text-xl font-display font-medium mb-4">Consulting</h3>
             <p className="text-muted-foreground">
-              Streamline workflows, automate processes, and remove bottlenecks to scale team productivity efficiently.
+              Providing expert advice on technology strategy, architecture, 
+              and implementation to help businesses achieve their digital goals.
             </p>
           </div>
         </div>

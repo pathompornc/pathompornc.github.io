@@ -22,26 +22,22 @@ const About = () => {
               About Me
             </div>
             <h1 className="text-3xl md:text-5xl font-display font-medium tracking-tight mb-6">
-              Patt Chokchainant
+              Your Name
             </h1>
             <p className="text-xl text-muted-foreground mb-6">
-              I'm a product manager with 5+ years of experience driving data and AI solutions that 
-              bridge emerging technologies with seamless user experiences. With a strong background 
-              in AI-driven products, data platforms, and analytics, I focus on identifying user needs, 
-              translating them into actionable solutions, and delivering scalable, impactful, and user-centric products 
-              that bridge technology and business needs.
+              I'm a passionate software engineer with expertise in developing innovative solutions 
+              that merge technical excellence with intuitive user experiences. With a background 
+              spanning web development, machine learning, and system architecture, I approach each 
+              project with a focus on creating scalable, efficient, and elegant code.
             </p>
             <p className="text-xl text-muted-foreground mb-6">
               My philosophy centers on continuous learning and growth. I believe in the power of 
               technology to transform businesses and improve lives, and I'm committed to being 
               part of that transformation through thoughtful, purpose-driven development.
-              I’m driven by a deep curiosity about human behavior and how diverse perspectives shape the way we live and work. 
-              I believe that our unique backgrounds and experiences enrich conversations, leading to more thoughtful collaboration 
-              and better product decisions. By embracing this diversity, I strive to build products that truly resonate with people and solve actual problems.
             </p>
             <div className="pt-4 flex flex-wrap gap-4">
               <a 
-                href="https://linkedin.com/in/pathompornc" 
+                href="https://linkedin.com/in/yourusername" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-2 rounded-full bg-secondary hover:bg-secondary/80 transition-colors"
@@ -50,7 +46,7 @@ const About = () => {
                 LinkedIn
               </a>
               <a 
-                href="https://github.com/pathompornc" 
+                href="https://github.com/yourusername" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-2 rounded-full bg-secondary hover:bg-secondary/80 transition-colors"
@@ -59,7 +55,7 @@ const About = () => {
                 GitHub
               </a>
               <a 
-                href="https://scholar.google.com/citations?user=6nkUwdAAAAAJ&hl=en" 
+                href="https://scholar.google.com/yourusername" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-2 rounded-full bg-secondary hover:bg-secondary/80 transition-colors"
@@ -68,7 +64,7 @@ const About = () => {
                 Google Scholar
               </a>
               <a 
-                href="mailto:ch.pathomporn@gmail.com" 
+                href="mailto:your.email@example.com" 
                 className="inline-flex items-center px-4 py-2 rounded-full bg-secondary hover:bg-secondary/80 transition-colors"
               >
                 <Mail size={18} className="mr-2" />
@@ -77,7 +73,7 @@ const About = () => {
             </div>
             <div className="pt-2">
               <a 
-                href="https://drive.google.com/file/d/1J7o7bgds2Wk0s0teZm3-HYlu5QDaMtzP/view?usp=sharing" 
+                href="/resume.pdf" 
                 target="_blank"
                 className="inline-flex items-center px-5 py-3 rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
               >

@@ -3,7 +3,7 @@
 export const projects = [
   {
     id: "project1",
-    title: "Typhoon Open Source Thai LLM Ecosystem",
+    title: "AI-Driven Analytics Platform",
     logoSrc: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=200&h=200",
     description: "Revolutionizing data analysis with machine learning algorithms for accurate predictions.",
     role: "Lead Developer",
@@ -38,7 +38,7 @@ export const projects = [
   },
   {
     id: "project2",
-    title: "LingThai Data Registry and Annotation Platform",
+    title: "E-Commerce Transformation",
     logoSrc: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=200&h=200",
     description: "Complete digital transformation for a traditional retail chain, enabling omnichannel sales.",
     role: "Frontend Architect",
@@ -73,7 +73,7 @@ export const projects = [
   },
   {
     id: "project3",
-    title: "RAG Customer Service Co-pilot",
+    title: "Healthcare Management System",
     logoSrc: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=200&h=200",
     description: "Secure and compliant system for managing patient records and optimizing healthcare operations.",
     role: "Full Stack Developer",
@@ -108,7 +108,7 @@ export const projects = [
   },
   {
     id: "project4",
-    title: "E-Commerce Chatbot and Product Recommendation Systems",
+    title: "Smart City Initiative",
     logoSrc: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=200&h=200",
     description: "IoT-based urban infrastructure monitoring and optimization for improved city living.",
     role: "IoT Solutions Architect",
@@ -143,7 +143,7 @@ export const projects = [
   },
   {
     id: "project5",
-    title: "Finnomena Wealth Tech Management Platform (FinTech)",
+    title: "Financial Inclusion Platform",
     logoSrc: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=200&h=200",
     description: "Mobile banking solution for underserved communities, focusing on accessibility and education.",
     role: "Product Manager",
@@ -223,19 +223,19 @@ export const experiences = [
 // Education data for the About page
 export const education = [
   {
-    school: "University of Washington",
-    degree: "Master of Science in Information Management (Data Science & AI)",
-    period: "2024 - 2025",
-    activities: ["Technical Discussion Facilitator at WTIA FullConTech"],
-    awards: ["Dean's Scholarship for Academic Excellence"],
+    school: "University of Technology",
+    degree: "Master of Science in Computer Science",
+    period: "2012 - 2014",
+    activities: ["Member of the Artificial Intelligence Research Group", "Teaching Assistant for Algorithms and Data Structures"],
+    awards: ["Dean's List for Academic Excellence", "Best Graduate Thesis Award"],
     logoSrc: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=100&h=100"
   },
   {
-    school: "Chulalongkorn University",
-    degree: "Bachelor of Business Administration (Finance & Accounting)",
-    period: "2015 - 2019",
-    activities: ["Treasurer of Student University 2018", "Supervisor of 1,000+ Receptionists at Academic Exhibition 2017", "Head of School Freshman Welcoming Ceremonies 2016"],
-    awards: ["Full Academic Scholarship for 4 consecutive years"],
+    school: "State University",
+    degree: "Bachelor of Science in Software Engineering",
+    period: "2008 - 2012",
+    activities: ["Vice President of Computer Science Club", "Hackathon Participant"],
+    awards: ["First Place in Collegiate Programming Contest", "Academic Scholarship Recipient"],
     logoSrc: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=100&h=100"
   }
 ];
@@ -243,27 +243,35 @@ export const education = [
 // Certification data for the About page
 export const certifications = [
   {
-    title: "Project Management Professional (PMP)",
-    issuer: "Project Management Institute (PMI)",
-    date: "2022",
-    credential: "3247538",
+    title: "AWS Certified Solutions Architect",
+    issuer: "Amazon Web Services",
+    date: "2023",
+    credential: "AWS-123456",
     credentialUrl: "#",
-    logoSrc: "https://www.credly.com/earner/earned/badge/ac11425b-1859-41f0-8017-8430e1dfc6c90"
+    logoSrc: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=100&h=100"
   },
   {
-    title: "PMI Agile Certified Practitioner (PMI-ACP)",
-    issuer: "Project Management Institute (PMI)",
+    title: "Google Professional Cloud Developer",
+    issuer: "Google Cloud",
     date: "2022",
-    credential: "3236038",
+    credential: "GCP-789012",
     credentialUrl: "#",
-    logoSrc: "https://www.credly.com/badges/869f628f-1c99-44bc-b56c-7213d87b10b6/public_url"
+    logoSrc: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=100&h=100"
   },
   {
-    title: "Introduction to Computer Science (CS50X)",
-    issuer: "Harvard University",
-    date: "2024",
+    title: "Microsoft Certified: Azure Developer Associate",
+    issuer: "Microsoft",
+    date: "2021",
     credential: "MSFT-345678",
     credentialUrl: "#",
     logoSrc: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=100&h=100"
   },
+  {
+    title: "Certified Kubernetes Administrator",
+    issuer: "Cloud Native Computing Foundation",
+    date: "2020",
+    credential: "CKA-901234",
+    credentialUrl: "#",
+    logoSrc: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=100&h=100"
+  }
 ];
